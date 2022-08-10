@@ -5,4 +5,4 @@
 ## Welcome! 👋
 
 My website looks like this -->
-<img src="website-preview.JPG" alt="This is my solution of this challenge">
+<img src="site-preview.JPG" alt="This is my solution of this challenge">
