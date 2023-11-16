@@ -82,15 +82,7 @@ body {
 }
 
 .attribution {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
+display:none;
 }
 
 @media screen and (max-width: 768px) {
