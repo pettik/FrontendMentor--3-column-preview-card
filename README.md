@@ -41,4 +41,3 @@ This challenge was perfect of me, because I was just getting started. The shift 
 
 - Website - [Petr Bednarski](https://github.com/pettik)
 - Frontend Mentor - [@pettik](https://www.frontendmentor.io/profile/pettik)
-- 
